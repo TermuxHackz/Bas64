@@ -1,6 +1,8 @@
 # Bas64
 A tool used for encoding and decoding bas64 hash codes in termux.
 
+<img src="https://github.com/TermuxHackz/Bas64/blob/master/small.gif" width="300" height="70"/>
+
 This script is created in python and bash and installs quickly with great usage.
 # Author
 **AnonyminHack5**
